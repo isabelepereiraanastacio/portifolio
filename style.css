@@ -1,0 +1,40 @@
+body {
+    font-family: arial, sans-serif;
+    background-color: rgb(226, 226, 226);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: blue;
+    color: rgb(226, 226, 226) ;
+    padding: 20px;
+    text-align: center;
+}
+
+header nav a {
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.apresentação {
+    background-color: rgb(226, 226, 226);
+    padding: 30px;
+    max-width: 600px;
+    margin: 40px auto;
+    text-align: center;
+    box-shadow: 0 0 15px  rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.apresentação h1 {
+    color: rgb(71, 71, 71);
+    margin-bottom: 10px;
+}
+
+.apresentação p {
+    color: rgb(122, 122, 122);
+    font-size: 18px;
+}
